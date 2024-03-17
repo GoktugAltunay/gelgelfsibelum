@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [1206640866211532922],
+        "ACTIVITY_TEXT": "Fallen Müşteri Hizmetleri",
+        "GUILD_ID": "1125337665789763644",
+        "VOICE_CHANNEL": "1216357030122754098",
+        "MIN_STAFF_ROLE": "1217897447943307384"
+    },
+    "FILES": {
+        "WELCOME": "<welcome-voice>.mp3",
+        "STAFF": "<staff-voice>.mp3"
+    },
+    "TOKEN": "MTIwNDU0ODk5ODg5MTk3MDYzMA.GNzPSV.Cn-4klj-McP3ZHBWzDFJZtUmoh1speCMBBSXB0"
+}
